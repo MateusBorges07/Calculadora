@@ -1,5 +1,5 @@
 public class Calculadora {
-    public double adicao(double num1, double num2) {
+    public double soma(double num1, double num2) {
         return num1 + num2;
     }
     public double subtracao(double num1, double num2) {
